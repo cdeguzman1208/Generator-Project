@@ -9,7 +9,7 @@ The object should have 'edges', and not be infinite. You can make a system that 
 - The generator should be able to make thousands or more variations of this "Object". [30 points]
 - It should also be at least partially guided by user input. [30 points]
 
- *This can mean inputting a seed, clicking to choose position, keys for changing parameter thresholds, letting people change grammars, or more.*
+     *This can mean inputting a seed, clicking to choose position, keys for changing parameter thresholds, letting people change grammars, or more.*
 - Share your 'a priori' artifact, the object you used as the basis of your generator [10 points]
 
 Lastly, choose one of these additional challenges: [20 points]
